@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sitio web basico</title>
+    <link rel = "stylesheet" href="bloque_dos_basico_css.css">
+    
+</head>
+<body> <h1 class="titulo-principal">Taller de Calidad en el Diseño y Desarrollo de Software</h1>
+    <h2>a) Explique la diferencia entre la calidad de diseño y la calidad de concordancia</h2>
+    <p>La calidad de diseño se refiere a cuán bien está estructurado y diseñado el software desde una perspectiva técnica y arquitectónica. Implica seguir principios de buenas prácticas en el diseño, como modularidad, cohesión, bajo acoplamiento, escalabilidad, mantenibilidad y reutilización de componentes. La calidad de diseño busca asegurar que el software sea fácil de modificar, extender y mantener a lo largo del tiempo, priorizando características como la claridad y la simplicidad.</p>
+
+    <p> Por otro lado, la calidad de concordancia se refiere a cuán bien el software implementado coincide con las especificaciones y los requisitos definidos al inicio del proyecto. En otras palabras, evalúa el grado en que el software cumple con los requerimientos funcionales y no funcionales establecidos por los usuarios y stakeholders. Esto incluye verificar que las funcionalidades entregadas hagan lo que se espera y que aspectos como el rendimiento y la seguridad cumplan con las expectativas.</p>
+
+    <h2>b) ¿En qué consiste la garantía de calidad?</h2>
+    <p>La garantía de calidad en el contexto de la ingeniería de software se refiere a un conjunto de procesos y prácticas que aseguran que el software desarrollado cumpla con ciertos estándares de calidad y satisfaga los requisitos del cliente. Consiste en la planificación y ejecución de actividades que buscan prevenir defectos, mejorar la calidad del producto y asegurar que el software sea confiable y eficiente.</p>
+
+    <h2>c) ¿Cuál es la base de las medidas de la calidad del software?</h2>
+    <p>Las medidas de la calidad del software están basadas en atributos clave como la funcionalidad, fiabilidad, usabilidad, eficiencia, mantenibilidad y portabilidad. Estas dimensiones permiten evaluar el rendimiento del software y determinar si cumple con los requisitos técnicos y de usuario.Tambien lo podriamos asociar la base de estas medidas  con la utilizacion de estandares, que buscan   establecer guias en el desarrollo de software proporcionando  un marco de referencia para garantizar la calidad y consistencia del producto final. Los estándares ayudan a alinear las expectativas de los clientes con las capacidades del software, lo que contribuye a la satisfacción del usuario y a la reducción de costos asociados con defectos y retrabajos.</p>
+
+    <h2>d) ¿Cuáles son los principales atributos de calidad del software IWeb?</h2>
+    <p>Los principales atributos de calidad del software IWeb incluyen la usabilidad, rendimiento, accesibilidad, seguridad, escalabilidad y mantenibilidad. Estos atributos aseguran que el software sea eficiente y que ofrezca una buena experiencia al usuario, independientemente del dispositivo o entorno en el que se utilice.</p>
+
+    <h2>e) Explique la diferencia entre usabilidad y accesibilidad</h2>
+    <p>La usabilidad se refiere a qué tan fácil es para los usuarios interactuar con un sistema o software. Implica eficiencia, efectividad y satisfacción del usuario. Por otro lado, la accesibilidad se enfoca en hacer que el software sea utilizable para personas con discapacidades, asegurando que todos, independientemente de sus habilidades físicas o técnicas, puedan acceder y utilizar la aplicación.</p>
+
+    <h2>f) Explore en la red algún ranking de las WebApps colombianas con mayor calidad de diseño</h2>
+    <p>
+        <ol>
+            <li>
+                <strong>Asemoda:</strong> Marketplace que conecta inicialmente proveedores de moda por catálogo con una fuerza de ventas. Permite a los vendedores manejar múltiples catálogos con un solo clic.
+            </li>
+            <li>
+                <strong>Suganet:</strong> Plataforma que ofrecerá servicios a los ganaderos como intermediario para las subastas comerciales de ganado.
+            </li>
+            <li>
+                <strong>Atiemppo:</strong> Controla todas las actividades que se realizan fuera del lugar de trabajo, a través de dispositivos móviles que permiten un control en tiempo real.
+            </li>
+            <li>
+                <strong>Palmatools:</strong> La plataforma soportará la gestión de procesos como Recolecta, Fondo de Ahorro, Créditos, Gestión Social, Fincas y Siembras, Tienda agrícola (Insumos, herramientas, etc.), Clientes (asociados), Manejo de Visitas Técnicas (Instalación, Sanidad, etc.), permitiendo el acceso desde dispositivos móviles.
+            </li>
+            <li>
+                <strong>Teveo:</strong> Plataforma que permite transmitir multimedia de una manera fácil y rápida a dispositivos móviles utilizando streaming.
+            </li>
+            <li>
+                <strong>Worked:</strong> Es una red de comunicación que funciona interna y privadamente para las empresas, y externa, privada o pública para los profesionales.
+            </li>
+            <li>
+                <strong>Children Finder:</strong> Apps para que los padres puedan localizar a sus hijos.
+            </li>
+            <li>
+                <strong>Tassecurity:</strong> Plataforma que permite el seguimiento y localización de containers.
+            </li>
+            <li>
+                <strong>Elíptica:</strong> Herramienta que permite administrar y gestionar los centros de inclusión digital.
+            </li>
+            <li>
+                <strong>Red integrada de servicios para laboratorios clínicos / Lysis:</strong> Plataforma web que almacena los resultados de las pruebas de laboratorio clínico y permite su transferencia entre las instituciones de salud a través de la integración de sus sistemas de información.
+            </li>
+            <li>
+                <strong>Transmisitp / Movilixa:</strong> MoviliXa es una red de aplicaciones móviles que ofrece información actualizada de las rutas de los sistemas de transporte masivo en Latinoamérica. Movilixa es una aplicación social que proporciona las herramientas para moverse con facilidad en las grandes ciudades de la región, combinando toda la información de sus sistemas de transporte masivos de estas ciudades en nuestra plataforma.
+            </li>
+            <li>
+                <strong>Laspartes:</strong> Es un taller en línea que ayuda a los dueños de vehículos a hacer el mantenimiento de su carro de manera fácil y garantizada, a un precio justo.
+            </li>
+            <li>
+                <strong>Tappsi:</strong> Aplicación que busca facilitar la solicitud de un taxi seguro en Bogotá.
+            </li>
+            <li>
+                <strong>Saberes:</strong> Aplicación web que conecta a docentes, estudiantes, padres de familia, administradores y secretarías de educación.
+            </li>
+        </ol>
+        
+    </p>
+
+    <h2>g) ¿Cuáles son las actividades de SQA?</h2>
+    <p>SQA (Software Quality Assurance) se refiere a un conjunto de actividades y procesos diseñados para garantizar que el software cumpla con los estándares de calidad establecidos y satisfaga las necesidades del usuario final. SQA no solo se enfoca en la calidad del producto final, sino también en los procesos utilizados para desarrollarlo, asegurando que se sigan las mejores prácticas y normativas a lo largo del ciclo de vida del software.</p>
+    <p>Las actividades de SQA (Software Quality Assurance) incluyen la planificación de calidad, revisión de procesos, auditorías, pruebas de software, validación y verificación. El objetivo es asegurar que el software se desarrolle de acuerdo a los estándares de calidad y que los procesos sean mejorados continuamente.</p>
+
+    <h2>h) ¿Qué es una revisión técnica formal (RTF)?</h2>
+    <p>Una Revisión Técnica Formal (RTF) es una evaluación estructurada y rigurosa de un producto de software o artefacto, en la que participan expertos en el área. El propósito de una RTF es identificar defectos, verificar el cumplimiento de estándares y mejorar la calidad general del producto.</p>
+
+    <h2>i) ¿Cuál es el estándar de garantía de calidad ISO que se aplica a la ingeniería del software?</h2>
+    <p>En el ámbito de la ingeniería del software, se pueden encontrar dos estándares clave que aseguran la gestión de calidad: ISO/IEC 9001 y ISO/IEC 25010. El primero, ISO/IEC 9001, se centra en implementar un sistema de gestión de calidad (SGC) efectivo, ayudando a las organizaciones a mejorar sus procesos y productos de manera continua. Se basa en principios como el enfoque al cliente, el liderazgo y la mejora continua, lo que permite a las empresas garantizar que sus procesos de desarrollo sean eficientes y cumplan con los requisitos de calidad.</p>
+     <p>Por otro lado, ISO/IEC 25010 se enfoca específicamente en la calidad del software. Este estándar define características esenciales como la funcionalidad, la fiabilidad y la usabilidad, que son fundamentales para evaluar y especificar los requisitos de calidad de productos y sistemas de software. A lo largo del ciclo de vida del producto, desde su concepción hasta su mantenimiento, ISO/IEC 25010 proporciona directrices para asegurar que se cumplan estos requisitos, mejorando así la satisfacción del cliente. Al implementar ambos estándares, las organizaciones pueden asegurar que sus productos de software no solo sean de alta calidad, sino que también se alineen con las expectativas del usuario.</p>
+
+    <h2>j) Cuáles atributos de calidad están referidos en la norma ISO/IEC 9126 ?</h2>
+    <p>La norma ISO/IEC 9126 define varios atributos de calidad del software, como funcionalidad, confiabilidad, usabilidad, eficiencia, mantenibilidad y portabilidad. Estos atributos se utilizan para evaluar la calidad desde diferentes perspectivas.</p>
+
+    <h2>k)  Mencione dos empresas certificadoras de calidad de software y dos empresas actualmente certificadas en Colombia (existe alguna empresa tolimense con certificación de calidad?)
+    </h2>
+    <p><h1>Empresas Certificadoras de Calidad de Software</h1>
+    
+        <h2>ICONTEC</h2>
+        <p>Es una organización colombiana que se especializa en la certificación de sistemas de gestión y normas internacionales, incluyendo la calidad de software. Sus servicios ayudan a las empresas a cumplir con estándares como ISO 9001, lo cual garantiza que los procesos de desarrollo de software son eficientes y de alta calidad.</p>
+        
+        <h2>NYCE Colombia</h2>
+        <p>Una entidad mexicana con presencia en Colombia, acreditada por ONAC para la certificación de calidad de software bajo normas internacionales como ISO/IEC 29110. Este estándar está diseñado específicamente para organizaciones dedicadas al desarrollo y mantenimiento de software, asegurando buenas prácticas y alta calidad en el producto final.</p>
+    
+        <h1>Empresas Actualmente Certificadas en Colombia</h1>
+    
+        <h2>Heinsohn Business Technology</h2>
+        <p>Ubicada en Bogotá, esta empresa está certificada en ISO 9001:2015 para el diseño, desarrollo y mantenimiento de software. Además, posee la certificación CMMI nivel 5, que es uno de los más altos reconocimientos en la mejora de procesos de software a nivel mundial. Esto demuestra su compromiso con la calidad y eficiencia en sus servicios.</p>
+    
+        <h2>Ceiba Software</h2>
+        <p>Con sede principal en Medellín, esta empresa también está certificada en ISO 9001:2015 y CMMI nivel 5. Ceiba Software se dedica al desarrollo de software a medida y soluciones tecnológicas, asegurando que sus procesos cumplen con los más altos estándares internacionales de calidad.</p>
+    
+        <h1>Empresa Tolimense con Certificación de Calidad de Software</h1>
+    
+        <h2>Syscafe</h2>
+        <p>Una empresa en Tolima que ofrece soluciones tecnológicas, como facturación electrónica, y cuenta con certificaciones en normas ISO. Estas certificaciones respaldan la calidad de sus productos y servicios, garantizando que cumplen con los estándares internacionales de calidad.</p></p>
+
+        <h2>l) ¿Cuáles son los requisitos del estándar ISO que deben estar presentes en un sistema de garantía de calidad efectiva?</h2>
+        <p>Un sistema de garantía de calidad efectivo bajo los estándares ISO requiere que haya procesos documentados, auditorías internas, revisiones periódicas y un enfoque en la mejora continua. También deben implementarse métricas de control para monitorear el desempeño. Los procesos documentados aseguran que las prácticas se sigan de manera consistente. Las auditorías internas y revisiones periódicas permiten identificar áreas de mejora y asegurar que se cumplan los requisitos del estándar. Un enfoque en la mejora continua, como el ciclo PDCA (Planificar, Hacer, Verificar, Actuar), es fundamental para mantener y mejorar la calidad. Además, las métricas de control ayudan a monitorear el rendimiento y detectar desviaciones a tiempo para corregirlas.</p>
+        
+        <h2>m) ¿Qué son las Métricas de la Calidad del software? diferencias entre Métricas de Predicción y Métricas de Control</h2>
+        <p>Las métricas de calidad del software son herramientas cuantitativas utilizadas para medir la calidad del software en varias dimensiones, como el rendimiento, la fiabilidad y la usabilidad. Las métricas de predicción se utilizan para estimar la calidad de un producto basándose en datos históricos, mientras que las métricas de control monitorean el desarrollo en tiempo real. Las métricas de predicción permiten anticipar problemas potenciales y planificar mejoras antes de que ocurran. Por otro lado, las métricas de control proporcionan una visión en tiempo real del estado actual del software, permitiendo tomar acciones correctivas inmediatas si se identifican problemas durante el desarrollo o las pruebas.</p>
+        
+        <h2>n) ¿Cuáles son las Métricas Orientadas a Objetos?</h2>
+        <p>Las métricas orientadas a objetos incluyen mediciones de cohesión, acoplamiento, complejidad ciclomática y tamaño de las clases. Estas métricas ayudan a evaluar la calidad y el diseño de software basado en el paradigma orientado a objetos. La cohesión mide cuán bien las responsabilidades de una clase están relacionadas entre sí, mientras que el acoplamiento evalúa el grado de dependencia entre diferentes clases. La complejidad ciclomática se refiere al número de caminos lineales independientes a través del código, lo que ayuda a identificar la complejidad del software. El tamaño de las clases mide la cantidad de código y funcionalidad que contiene una clase, lo que puede influir en la mantenibilidad y comprensión del software.</p>
+        
+        <h2>o) ¿Existen Métricas de calidad para el desarrollo de aplicaciones móviles?</h2>
+        <p>Existen varias métricas de calidad para aplicaciones móviles, incluyendo el rendimiento, la experiencia de usuario (UX), el consumo de batería, la seguridad y la estabilidad. Estas métricas aseguran que las aplicaciones móviles cumplan con altos estándares de calidad. El rendimiento evalúa la velocidad y eficiencia de la aplicación bajo diferentes condiciones de uso. La experiencia de usuario se centra en la facilidad de uso y satisfacción del usuario final. El consumo de batería mide cuánto afecta la aplicación a la duración de la batería del dispositivo. La seguridad evalúa la protección contra amenazas y vulnerabilidades, mientras que la estabilidad mide la frecuencia y gravedad de fallos y errores durante el uso.</p>
+        
+        <h2>p)  ¿Cuál es la técnica más utilizada para valorar la calidad?</h2>
+        <p>La técnica más utilizada para valorar la calidad del software es la prueba de caja negra, que evalúa la funcionalidad sin necesidad de conocer el código subyacente. También se usan pruebas de caja blanca y análisis estático para aspectos más detallados. Las pruebas de caja negra se centran en las entradas y salidas del software, verificando que cumpla con los requisitos funcionales especificados. Las pruebas de caja blanca, en cambio, analizan el flujo interno del código para asegurar que todas las rutas posibles sean ejecutadas y verificadas. El análisis estático revisa el código fuente sin ejecutarlo, identificando posibles errores y vulnerabilidades.</p>
+        
+        <h2>q) ¿Cuáles son los principales modelos y estándares de calidad del software, a nivel de proceso y de producto?</h2>
+        <p>Los principales modelos y estándares de calidad de software incluyen CMMI (Capability Maturity Model Integration), ISO/IEC 25010, y SPICE. Estos modelos permiten evaluar tanto el proceso como el producto de software y asegurar la calidad en cada etapa del desarrollo. CMMI se centra en la mejora de los procesos organizacionales, ayudando a las empresas a mejorar la madurez y eficiencia de sus procesos de desarrollo de software. ISO/IEC 25010 proporciona un modelo de calidad que define las características y subcaracterísticas de la calidad del producto de software. SPICE (ISO/IEC 15504) ofrece un marco para evaluar y mejorar los procesos de desarrollo de software, ayudando a las organizaciones a implementar prácticas de desarrollo más efectivas y eficientes.</p>
+        <h1 class="titulo-principal">Taller GCS</h1>
+        <h2>a) Mencione tres razones por las cuales el software se presenta en diversas configuraciones.</h2>
+
+        <p>El software se presenta en varias configuraciones debido a múltiples razones, tres de ellas son:</p>
+    
+        <p>
+            - A medida que pasa el tiempo, las personas involucradas en el proyecto saben cómo acercarse mejor a la solución del problema y entienden mejor lo que se necesita. Esto motiva la realización de cambios en el desarrollo del proyecto.
+        </p>
+        
+        <p>
+            - La gestión de la configuración permite gestionar los cambios durante todo el ciclo de vida de un proyecto de software.
+        </p>
+        
+        <p>
+            - Se hace necesario mantener la integridad del producto de software a través del ciclo de vida del proceso de software.
+        </p>
+        <h2>b) ¿Cuál es la principal diferencia entre el mantenimiento y la Gestión de Configuración del Software (GCS)?</h2>
+
+        <p>
+            La principal diferencia entre el mantenimiento y la Gestión de Configuración del Software (GCS) radica en su enfoque y alcance:
+        </p>
+        
+        <p>
+            - El <strong>mantenimiento</strong> del software se refiere a las actividades destinadas a corregir errores, mejorar el rendimiento o adaptar el software a nuevos entornos o requisitos. Es un proceso continuo que asegura que el software funcione correctamente a lo largo del tiempo.
+        </p>
+        
+        <p>
+            - La <strong>Gestión de Configuración del Software (GCS)</strong>, en cambio, se enfoca en controlar y rastrear todos los cambios realizados al software durante su ciclo de vida. Esto incluye la identificación, almacenamiento, seguimiento y control de versiones, asegurando que el software y su documentación estén alineados y gestionados correctamente.
+        </p>
+        <h2>c) ¿Para qué sirve la Gestión de la Configuración del Software?</h2>
+
+    <p>
+        La Gestión de la Configuración del Software (GCS) es un proceso fundamental en el desarrollo y mantenimiento de software, que se centra en identificar, controlar y rastrear todos los elementos del software y su documentación a lo largo de su ciclo de vida. Su principal objetivo es asegurar que los cambios realizados en el software se gestionen de manera sistemática, minimizando el riesgo de errores y asegurando la calidad del producto final.
+    </p>
+
+    <p>
+        La GCS permite el control de cambios, lo que significa que cada modificación realizada en el software se documenta y se revisa, lo que garantiza que solo las versiones probadas y estables se desplieguen en el entorno de producción. Esto es especialmente importante en proyectos grandes y complejos, donde múltiples desarrolladores pueden estar trabajando simultáneamente en diferentes componentes del software. La GCS facilita la colaboración al proporcionar un marco claro que permite a los equipos trabajar en diferentes partes del software sin interferencias, lo que resulta en un flujo de trabajo más eficiente.
+    </p>
+    <h2>d) Explique la diferencia entre una versión y una liberación del producto software.</h2>
+
+    <p>
+        La diferencia entre una versión y una liberación del producto software radica en su significado y propósito dentro del ciclo de vida del desarrollo del software.
+    </p>
+
+    <p>
+        - Una <strong>versión</strong> se refiere a una iteración específica del software que incluye un conjunto determinado de características, correcciones de errores y mejoras. Las versiones se utilizan para identificar cambios en el software a lo largo del tiempo, permitiendo a los desarrolladores y usuarios entender qué ha cambiado desde la última iteración. Por ejemplo, una versión puede ser identificada como "1.0", "1.1" o "2.0", donde el número puede indicar el tipo y la magnitud de los cambios realizados.
+    </p>
+
+    <p>
+        - Por otro lado, una <strong>liberación</strong> se refiere al acto de poner a disposición del público o de los usuarios finales una versión específica del software. Es el proceso mediante el cual una versión del software se despliega en un entorno de producción, y generalmente incluye pruebas finales para asegurar que el producto esté listo para su uso. Una liberación puede incluir una o más versiones del software que han sido preparadas para su distribución. Por lo tanto, una liberación implica no solo la versión en sí, sino también el proceso de validación y entrega del producto a los usuarios.
+    </p>
+    <h2>e) Mencione cinco elementos de configuración del software.</h2>
+
+    <p>
+        Los elementos de configuración de software son componentes esenciales que se gestionan dentro del ciclo de vida del software. Estos elementos incluyen tanto el software en sí como las herramientas y licencias necesarias para su operación, permitiendo un control eficaz de las versiones y configuraciones del software.
+    </p>
+
+    <ul>
+        <li>Sistemas Operativos</li>
+        <li>Aplicaciones empresariales, como el paquete Office</li>
+        <li>Aplicaciones de software personalizadas</li>
+        <li>Licencias de software</li>
+        <li>Middleware</li>
+        <li>Utilidades como herramientas de copia de seguridad del sistema y software antivirus</li>
+    </ul>
+    <h2>f) Explique las tareas de GCS</h2>
+
+    <p>
+        La Gestión de la Configuración del Software (GCS) implica una serie de tareas clave que aseguran el control y la calidad del software a lo largo de su ciclo de vida. Estas tareas incluyen:
+    </p>
+
+    <ul>
+        <li>
+            <strong>Identificación de Configuración:</strong> Definir y documentar los elementos de configuración del software, incluidos el software, la documentación y cualquier componente asociado. Esta tarea implica establecer qué se va a gestionar y cómo se va a identificar cada elemento.
+        </li>
+        <li>
+            <strong>Control de Cambios:</strong> Evaluar, aprobar y documentar los cambios propuestos en los elementos de configuración. Esto asegura que solo se realicen modificaciones controladas y que se mantenga la integridad del software.
+        </li>
+        <li>
+            <strong>Seguimiento y Registro:</strong> Mantener un registro detallado de las versiones y configuraciones del software, así como de los cambios realizados. Esto permite rastrear el historial de cambios y facilita el manejo de versiones.
+        </li>
+        <li>
+            <strong>Verificación y Auditoría:</strong> Realizar revisiones y auditorías periódicas para asegurar que el software y sus configuraciones cumplen con los estándares establecidos y los requisitos del proyecto.
+        </li>
+        <li>
+            <strong>Gestión de Versiones:</strong> Controlar y gestionar las diferentes versiones del software, asegurando que se mantengan registros claros de las versiones liberadas y las que están en desarrollo.
+        </li>
+        <li>
+            <strong>Comunicación y Coordinación:</strong> Facilitar la comunicación entre los miembros del equipo de desarrollo y otros interesados, asegurando que todos estén al tanto de los cambios y el estado de la configuración del software.
+        </li>
+    </ul>
+    <h2>g) ¿En qué consiste la auditoría de la configuración del software?</h2>
+
+    <p>
+        La auditoría de la configuración del software consiste en una evaluación sistemática y objetiva de los elementos de configuración y los procesos relacionados con el software. Su objetivo principal es asegurar que los productos del software, así como los procesos de gestión de configuración, cumplan con los estándares, regulaciones y procedimientos establecidos.
+    </p>
+
+    <p>
+        Durante la auditoría, se verifica que los elementos de configuración se encuentren organizados y documentados correctamente, se revisan los cambios realizados en el software y se evalúa si se han seguido los procedimientos adecuados para la gestión de dichos cambios. Además, se examinan los informes de estado y se comprueba la conformidad con las directrices y normas aplicables.
+    </p>
+
+    <p>
+        La auditoría es realizada por un equipo de auditores independientes, quienes documentan sus hallazgos y recomendaciones. Esto ayuda a identificar áreas de mejora en los procesos de gestión de configuración, asegurando así la calidad y la integridad del software a lo largo de su ciclo de vida.
+    </p>
+    <h2>¿Para qué se generan los informes de estado de GCS?</h2>
+
+    <p>
+        La generación de informes de estado de la configuración es una tarea fundamental de la GCS que busca responder a las siguientes preguntas:
+    </p>
+
+    <ul>
+        <li><strong>¿Qué pasó?</strong></li>
+        <li><strong>¿Quién lo hizo?</strong></li>
+        <li><strong>¿Cuándo pasó?</strong></li>
+        <li><strong>¿Qué más se vio afectado?</strong></li>
+    </ul>
+
+    <p>
+        Estos informes desempeñan un papel vital en el éxito del proyecto de desarrollo de software. Cuando hay muchas personas involucradas, puede haber dificultades en la comunicación, lo que podría dar lugar a errores o malentendidos entre los desarrolladores. 
+    </p>
+
+    <p>
+        Los informes de estado ayudan a mitigar estos problemas, mejorando la comunicación entre todas las partes interesadas y asegurando que todos estén al tanto de los cambios y su impacto en el proyecto.
+    </p>
+
+
+
+        <p>
+            Fuente: <a href="https://calidad-delsoftware.fandom.com/es/wiki/%C2%BFPara_qu%C3%A9_se_generan_los_informes_de_estado_de_GCS%3F" target="_blank">¿Para qué se generan los informes de estado de GCS?</a>
+            Fuente: <a href="https://ingenieriadesoftwarecolegioamerica.blogspot.com/p/auditoria-de-la-configuracion-de.html#:~:text=La%20actividad%20de%20auditor%C3%ADa%20de%20configuraci%C3%B3n%20de%20software,as%C3%AD%20iniciar%20un%20plan%20de%20mejora%20para%20solucionarlas" target="_blank">Auditoría de la Configuración de Software</a>
+            Fuente: <a href="https://calidad-delsoftware.fandom.com/es/wiki/Explique_las_tareas_de_GCS" target="_blank">Explique las tareas de GCS</a>
+            Fuente: <a href="https://blog.invgate.com/es/elementos-de-configuracion#:~:text=Elementos%20de%20Configuraci%C3%B3n%20de%20software%3A%201%20Sistemas%20Operativos,copia%20de%20seguridad%20del%20sistema%20y%20software%20antivirus" target="_blank">Elementos de Configuración de Software</a>
+            Fuente: <a href="https://calidadsoftwareunibague.fandom.com/es/wiki/Tres_razones_por_las_cuales_el_software_se_presenta_en_diversas_configuraciones" target="_blank">Tres razones por las cuales el software se presenta en diversas configuraciones</a>
+        </p>
+</body>
+</html>
