@@ -1,0 +1,28 @@
+
+.titulo-principal{
+    color: rgba(16, 230, 184, 0.89);
+    font-size: 500%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    text-justify: auto;
+    text-decoration: underline;
+    margin-left: 5%;
+}
+
+
+body{
+    background: rgba(70, 70, 74, 0.89);
+}
+h2{
+    color:rgba(16, 230, 134, 0.797);
+    padding: 10px 10px 10px 10px;
+    
+
+}
+p{
+    text-align: center;
+    text-align: justify;
+    
+}
+
+
